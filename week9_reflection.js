@@ -43,9 +43,9 @@
 //     return first + second;
 // }
 
-
-
-
+//Question 3
+// Order of growth in  time = n 
+// order of growth in space = n
 
 
 
