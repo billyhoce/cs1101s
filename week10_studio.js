@@ -66,6 +66,8 @@
 // cc(20, 3);
 
 //Question 3c
+//order of growth in time = n
+//order of growth in space = n
 
 
 
